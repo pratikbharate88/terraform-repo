@@ -1,5 +1,5 @@
 resource "local_file" "pet" {
     filename = "/root/pet.txt"
-    content = "my pet name is Boby"
+    content = "my pet name is Romio"
   
 }
